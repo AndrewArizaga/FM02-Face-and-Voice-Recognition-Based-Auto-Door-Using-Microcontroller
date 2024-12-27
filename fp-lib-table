@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/andre/Downloads/LIB_ESP32-CAM/ESP32-CAM/KiCad")(options "")(descr ""))
+)

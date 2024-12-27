@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-CAM")(type "KiCad")(uri "C:/Users/andre/Downloads/LIB_ESP32-CAM/ESP32-CAM/KiCad/ESP32-CAM.kicad_sym")(options "")(descr ""))
+  (lib (name "Audio Module")(type "KiCad")(uri "${KIPRJMOD}/Audio Module.kicad_sym")(options "")(descr ""))
+)
